@@ -34,7 +34,7 @@ span{
 h3{
     background-color: rgba(0, 139, 139, 0.529);
     padding: 0.5px;
-    border-radius: ;
+    border-radius: 5px;
 }
 li>a{
     text-decoration: none;
